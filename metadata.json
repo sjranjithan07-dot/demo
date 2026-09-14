@@ -1,0 +1,6 @@
+{
+  "name": "PlacementAI",
+  "description": "Company-specific campus placement preparation platform with recruitment blueprints, practice workspace, AI mock interview room, and post-interview diagnostics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
